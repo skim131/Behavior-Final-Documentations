@@ -1,3 +1,5 @@
+Chapter 2: Getting Started
+===========================
 In this chapter we’ll perform all configuration and set-up steps necessary to get our starter kit up running. Along the way we’ll introduce basic concepts of Qubell Adaptive PaaS technology used by manage all aspects of deployment and management of your recommendation engine.
 
 In order to start working with the starter kit, you need to perform the following steps:
