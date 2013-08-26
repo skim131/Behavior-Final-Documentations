@@ -5,10 +5,12 @@ Behavior Analytics Starter Kit
 Chapter 1: Overview and Frequently Asked Questions
 
 What is Behavior Analytics Starter Kit?
+---------------------------------------
 
 Behavior Analytics Starter Kit is a cloud lab for developers where they can learn how to create powerful behavior analytics applications using Hadoop and Mahout, and deploy them on Amazon cloud with Qubell Adaptive PaaS. This starter kit presents a complete example of a common application of behavior analytics - a Product Recommendation engine for an eCommerce store. 
 
 This Starter Kits has everything one needs to: 
+----------------------------------------------
 
 ● understand how Recommendation Engine works
 ● walk through all aspects of designing a simple recommendation engine from scratch for 
