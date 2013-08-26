@@ -40,12 +40,12 @@ We will provide you with all the code, data, frameworks, tools and technologies 
 modify all elements of the starter kit. All third party software used in the kit, with exception of two services 
 listed below, is available under open source license and distributed with the kit. We will provide references to 
 the external documentation for each tool used. You will need to bring two things with you:
-- A account on Qubell.com, which can be opened for free here. 
-- An account on Amazon EC2 and S3 which can be opened here.
+- A account on Qubell.com, which can be opened for free [here](http://qubell.com). 
+- An account on Amazon EC2 and S3 which can be opened [here](http://aws.amazon.com/ec2/).
 
 Who wrote this Starter Kit and why?
 -----------------------------------
-This Behavior Analytics Starter Kit was developed by Grid Dynamics, in partnership with Qubell, to promote 
+This Behavior Analytics Starter Kit was developed by [Grid Dynamics](http://griddynamics.com), in partnership with [Qubell](http://qubell.com/), to promote 
 understanding of how to design, implement, deploy and support modern analytics applications, such as Product 
 Recommendations
 
@@ -53,7 +53,7 @@ How does this Kit work?
 -----------------------
 Behavior Analytics Starter Kit has three main parts:
 1) A web store that sells consumer products over the Internet. It is written in java based on open source 
-Broadleaf framework. Out of the box, Broadleaf framework doesn’t have product recommendations. We added them as 
+[Broadleaf framework](http://www.broadleafcommerce.org/). Out of the box, Broadleaf framework doesn’t have product recommendations. We added them as 
 a part of the check-out process. The product recommendation logic will match the items in the shopping card with 
 other products often bought together and suggest additional items if they are found. This web store operates on 
 three data sets that are relevant to the recommendation system:
@@ -72,7 +72,7 @@ set of configuration choices for the recommendation algorithms provided by the d
 log. This recommendation engine consists of a Hadoop cluster, transaction log generator and recommendation 
 processor written with Apache Mahout. 
 
-3) A deployment and configuration management automation platform based on Qubell Adaptive PaaS technology. This 
+3) A deployment and configuration management automation platform based on [Qubell Adaptive PaaS technology](http://qubell.com/product/qubell-platform/). This 
 platform does the heavy lifting of automatically deploying new instances of the web store to Amazon on a click 
 of a button, provision the recommendation engine including Hadoop, HDFS and Mahout to Amazon EC2 and S3, run 
 Hadoop jobs to generate new transaction logs and recommendations, load new product recommendations to the web 
@@ -101,5 +101,5 @@ ideas to extending this kit to cover your needs include:
 How can I get help taking this Starter Kit to production systems?
 -----------------------------------------------------------------
 Starter Kit is provided under the Apache 2.0 license. Although this kit comes without a support contract, you 
-can report bugs, request FREs and ask questions here and Kits development team will get back to you as soon 
+can report bugs, request FREs and ask questions [here](https://qubell.zendesk.com/home) and Kits development team will get back to you as soon 
 as possible.
