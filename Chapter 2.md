@@ -1,24 +1,16 @@
-In this chapter we’ll perform all configuration and set-up steps necessary to get our starter kit up 
-
-running. Along the way we’ll introduce basic concepts of Qubell Adaptive PaaS technology used by 
-
-manage all aspects of deployment and management of your recommendation engine.
+In this chapter we’ll perform all configuration and set-up steps necessary to get our starter kit up running. Along the way we’ll introduce basic concepts of Qubell Adaptive PaaS technology used by manage all aspects of deployment and management of your recommendation engine.
 
 In order to start working with the starter kit, you need to perform the following steps:
-
-● Set-up your Qubell account
-
-● Import Behavior Analytics Starter Kit 
-
-● Set-up Amazon account
-
-● Configure deployment environment
+- Set-up your Qubell account
+- Import Behavior Analytics Starter Kit 
+- Set-up Amazon account
+- Configure deployment environment
 
 Let’s walk through these three steps in details. 
 
 Set-up Qubell Account
-
-To open a free account on Qubell, please go to Qubell.com and click on “Sign Up” from the top 
+---------------------
+To open a free account on Qubell, please go to [Qubell.com](http://qubell.com/) and click on “Sign Up” from the top 
 
 menu. Follow the instructions to create an account. If you have an account, skip this step. 
 
