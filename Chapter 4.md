@@ -69,8 +69,8 @@ We’ve integrated three popular tools that can be used to gain insight into the
 
 PRINT SCREEN
 
-  **Job tracker** shows (TBW)
-  **Monitoring** is done by a popular tool Ganglia (TBW)
-  **Namenode HDFS** - TBW
+  - **Job tracker** shows (TBW)
+  - **Monitoring** is done by a popular tool Ganglia (TBW)
+  - **Namenode HDFS** - TBW
 
 
