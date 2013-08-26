@@ -90,7 +90,7 @@ Behavior Analytics Starter Kit supports the following main use cases out of the 
 - Push new recommendations to the web store
 - Use monitoring tool Ganglia to  monitor the cluster
 
-How can I go beyond the Starter Kit to write production-ready analytics 
+How can I go beyond the Starter Kit to write production-ready analytics? 
 -----------------------------------------------------------------------
 Our starter kit is designed to give you a quick jump-start to develop your own analytics systems. Some common 
 ideas to extending this kit to cover your needs include:
