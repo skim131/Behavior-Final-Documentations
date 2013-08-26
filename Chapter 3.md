@@ -84,9 +84,9 @@ We have created three utility functions to simplify working with different produ
 PRINT SCREEN
 
 You’ve seen the definition of these functions in the manifest for the store deployment. 
-- Load_product_catalog_from_S3: this action is used to upload a new version of a catalog from S3. For example, the catalog used in this starter kit is not native to Broadleaf project. Instead, we used a demo product catalog from Magento, a popular open source eCommerce technology that you can find here. 
-- Save_product_catalog_structure_to_S3: this actions puts the product information to S3 where the recommendation engine can pick it up. The engine doesn’t need a full catalog with prices and images; instead it needs to understand the structure of the catalog and the dependencies between products. We call a file with such information Product Catalog Structure file and you can find a default one here.
-- Load_recommendations_from_S3: this action pulls newly computed recommendation file from S3 where recommendation engine has put it
+- **Load_product_catalog_from_S3:** this action is used to upload a new version of a catalog from S3. For example, the catalog used in this starter kit is not native to Broadleaf project. Instead, we used a demo product catalog from Magento, a popular open source eCommerce technology that you can find here. 
+- **Save_product_catalog_structure_to_S3:** this actions puts the product information to S3 where the recommendation engine can pick it up. The engine doesn’t need a full catalog with prices and images; instead it needs to understand the structure of the catalog and the dependencies between products. We call a file with such information Product Catalog Structure file and you can find a default one here.
+- **Load_recommendations_from_S3:** this action pulls newly computed recommendation file from S3 where recommendation engine has put it
 
 Can I “play” with these action buttons or modify the web store’s source code to behave differently?
 ---------------------------------------------------------------------------------------------------
